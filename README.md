@@ -18,12 +18,12 @@ RDPAPP.exe 10.137.183.187 domain username password  application  application_agr
 | Parameter      | Description |
 |---------------|-------------|
 | `RDPAPP.exe`  | Executable used to open an RDP session with a specific application. |
-| `10.137.183.187` | Target remote machine's IP address. |
-| `ipam01`      | Name of the application to be launched after RDP connection. |
-| `su1`         | Username for remote authentication. |
-| `pass@12323`  | Password for the user account. |
-| `ACM`         | Module or environment (can vary based on configuration). |
-| `1213`        | Session ID or connection identifier. |
+| `Ip ` | Target remote machine's IP address. |
+| `Domain`      | RDP Domain Name . |
+| `Username`         | Username for remote authentication. |
+| `Password`  | Password for the user account. |
+| `Application`         |Application (can vary based on configuration). |
+| `Application_Parameters`        | Application Parameters. |
 
 ---
 
